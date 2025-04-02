@@ -1,0 +1,7 @@
+Nome de usuário: lucas_assis
+Senha: x
+UID: 1001
+GID principal: 1002
+GECOS: ,,,
+Diretório inicial: /home/lucas_assis
+Shell: /bin/bash
